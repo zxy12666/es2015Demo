@@ -168,3 +168,30 @@
 // pro.name='lalala';
 // console.log(pro.name);
 
+//class
+// class Coder{
+//     name(val){
+//         console.log(val)
+//         return val
+//     };
+//     skill(val){
+//         console.log(this.name("ok")+val)
+//     };
+//     constructor(a,b){
+//         this.a=a;
+//         this.b=b;
+//     };
+//     add(){
+//         return this.a+this.b
+//     }
+// }
+//
+// class htmler extends  Coder{
+//
+// }
+// let zhang=new htmler;
+// console.log(zhang.name('zhang'))
+
+import {a} from './temp.js';
+
+console.log(a);
